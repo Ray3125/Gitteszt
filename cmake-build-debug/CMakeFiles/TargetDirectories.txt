@@ -1,0 +1,3 @@
+C:/Users/rajmond/CLionProjects/Gitteszt/cmake-build-debug/CMakeFiles/Gitteszt.dir
+C:/Users/rajmond/CLionProjects/Gitteszt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rajmond/CLionProjects/Gitteszt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
